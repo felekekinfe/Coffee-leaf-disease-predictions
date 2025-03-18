@@ -1,0 +1,1 @@
+Ethiopia is the 10th largest exporter of coffee in the world. Coffee amounts to 34% of all exports in Ethiopia. Coffee leaf disease result in 30% yield loss annually. Early visual identification is one of the best ways to prevent yield loss. But early visual identification is difficult even for trained professionals.
