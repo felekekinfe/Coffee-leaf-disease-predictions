@@ -1,8 +1,3 @@
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x200.png?text=Coffee+Leaf+Disease+Classifier" alt="Coffee Leaf Disease CNN" width="800"/>
-</p>
-
 <h1 align="center">Coffee Leaf Disease Prediction 🌱☕</h1>
 
 <p align="center">
